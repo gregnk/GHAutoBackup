@@ -1,0 +1,5 @@
+# Example: 
+# Repo http://github.com/SomeGHUser/SomeRepo
+# Repo http://git.somewebsite.com/SomeRepo
+# User http://github.com/SomeGHUser
+# Org http://github.com/SomeGHOrg
