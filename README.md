@@ -2,13 +2,13 @@
 A script which automatically backs up a bunch of git repositories
 
 ## Requirements
-* Git cli
+* Git CLI
 * Python 3.7+
 
 ## Usage
 	py GHAutoBackup.py [-debug]
 
-The program will archive all of the links listed in `Links.txt` (Seee below)
+The program will archive all of the links listed in `Links.txt` (See below)
 
 ## Links.txt Format
 
